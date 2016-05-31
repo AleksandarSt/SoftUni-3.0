@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets-of-elements", "Sets-of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Periodic-table", "Periodic-table\Periodic-table.csproj", "{A4869F97-F469-4EBF-BB61-82E3E16C6F35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A4869F97-F469-4EBF-BB61-82E3E16C6F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4869F97-F469-4EBF-BB61-82E3E16C6F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4869F97-F469-4EBF-BB61-82E3E16C6F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
