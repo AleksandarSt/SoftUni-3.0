@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Periodic-table", "Periodic-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-miner-task", "A-miner-task\A-miner-task.csproj", "{E7A3273D-3665-41B7-952F-77AAF7D0FA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fix-emails", "Fix-emails\Fix-emails.csproj", "{223D716E-F2FD-4C87-A255-24CE87582354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F6988A4-2070-414A-B4A5-E20DF6A91CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A3273D-3665-41B7-952F-77AAF7D0FA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A3273D-3665-41B7-952F-77AAF7D0FA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A3273D-3665-41B7-952F-77AAF7D0FA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A3273D-3665-41B7-952F-77AAF7D0FA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223D716E-F2FD-4C87-A255-24CE87582354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223D716E-F2FD-4C87-A255-24CE87582354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223D716E-F2FD-4C87-A255-24CE87582354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223D716E-F2FD-4C87-A255-24CE87582354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
