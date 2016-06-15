@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\bin\Debug\Simple-Text-Editor.exe.config
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\bin\Debug\Simple-Text-Editor.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\bin\Debug\Simple-Text-Editor.pdb
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\obj\Debug\Simple-Text-Editor.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\obj\Debug\Simple-Text-Editor.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Simple-Text-Editor\obj\Debug\Simple-Text-Editor.pdb

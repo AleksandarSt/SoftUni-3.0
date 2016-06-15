@@ -1,0 +1,5 @@
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Count-Substring-Occurrences\bin\Debug\Count-Substring-Occurrences.exe.config
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Count-Substring-Occurrences\bin\Debug\Count-Substring-Occurrences.exe
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Count-Substring-Occurrences\bin\Debug\Count-Substring-Occurrences.pdb
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Count-Substring-Occurrences\obj\Debug\Count-Substring-Occurrences.exe
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Count-Substring-Occurrences\obj\Debug\Count-Substring-Occurrences.pdb

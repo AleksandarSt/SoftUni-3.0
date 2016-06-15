@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\bin\Debug\Manual-String-Processing.exe.config
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\bin\Debug\Manual-String-Processing.exe
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\bin\Debug\Manual-String-Processing.pdb
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\obj\Debug\Manual-String-Processing.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\obj\Debug\Manual-String-Processing.exe
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Manual-String-Processing\obj\Debug\Manual-String-Processing.pdb

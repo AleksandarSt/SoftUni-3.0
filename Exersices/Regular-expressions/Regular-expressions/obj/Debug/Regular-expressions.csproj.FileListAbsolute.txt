@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\bin\Debug\Regular-expressions.exe.config
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\bin\Debug\Regular-expressions.exe
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\bin\Debug\Regular-expressions.pdb
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\obj\Debug\Regular-expressions.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\obj\Debug\Regular-expressions.exe
+D:\Git\SoftUni-3.0\Exersices\Regular-expressions\Regular-expressions\obj\Debug\Regular-expressions.pdb

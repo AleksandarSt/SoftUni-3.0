@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\bin\Debug\Sets-and-Dictionaries.exe.config
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\bin\Debug\Sets-and-Dictionaries.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\bin\Debug\Sets-and-Dictionaries.pdb
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\obj\Debug\Count-Symbols.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\obj\Debug\Sets-and-Dictionaries.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Sets-and-Dictionaries\obj\Debug\Sets-and-Dictionaries.pdb

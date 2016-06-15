@@ -1,0 +1,3 @@
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Reverse-String\bin\Debug\Manual-String-Processing.exe.config
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Reverse-String\obj\Debug\Manual-String-Processing.exe
+D:\Git\SoftUni-3.0\Exersices\Manual-String-Processing\Reverse-String\obj\Debug\Manual-String-Processing.pdb

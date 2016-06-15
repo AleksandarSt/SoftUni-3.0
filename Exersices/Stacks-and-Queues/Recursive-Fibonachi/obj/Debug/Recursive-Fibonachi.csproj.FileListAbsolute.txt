@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\bin\Debug\Recursive-Fibonachi.exe.config
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\bin\Debug\Recursive-Fibonachi.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\bin\Debug\Recursive-Fibonachi.pdb
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\obj\Debug\Recursive-Fibonachi.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\obj\Debug\Recursive-Fibonachi.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Recursive-Fibonachi\obj\Debug\Recursive-Fibonachi.pdb

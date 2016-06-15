@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\bin\Debug\Hands-of-cards.exe.config
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\obj\Debug\Hands-of-cards.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\bin\Debug\Hands-of-cards.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\bin\Debug\Hands-of-cards.pdb
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\obj\Debug\Hands-of-cards.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Hands-of-cards\obj\Debug\Hands-of-cards.pdb

@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\bin\Debug\Calculate-sequence-with-queue.exe.config
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\bin\Debug\Calculate-sequence-with-queue.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\bin\Debug\Calculate-sequence-with-queue.pdb
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\obj\Debug\Calculate-sequence-with-queue.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\obj\Debug\Calculate-sequence-with-queue.pdb
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Calculate-sequence-with-queue\obj\Debug\Calculate-sequence-with-queue.csprojResolveAssemblyReference.cache

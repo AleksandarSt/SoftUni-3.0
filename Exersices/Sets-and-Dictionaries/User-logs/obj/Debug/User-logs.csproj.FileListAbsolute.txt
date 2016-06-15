@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\bin\Debug\User-logs.exe.config
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\bin\Debug\User-logs.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\bin\Debug\User-logs.pdb
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\obj\Debug\User-logs.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\obj\Debug\User-logs.exe
+D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\User-logs\obj\Debug\User-logs.pdb

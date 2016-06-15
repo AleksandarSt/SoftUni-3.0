@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\bin\Debug\Balanced-Parentheses.exe.config
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\bin\Debug\Balanced-Parentheses.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\bin\Debug\Balanced-Parentheses.pdb
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\obj\Debug\Balanced-Parentheses.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\obj\Debug\Balanced-Parentheses.exe
+D:\Git\SoftUni-3.0\Exersices\Stacks-and-Queues\Balanced-Parentheses\obj\Debug\Balanced-Parentheses.pdb
