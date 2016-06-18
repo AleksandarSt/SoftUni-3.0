@@ -1,6 +1,5 @@
 D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\bin\Debug\Phonebook.exe.config
 D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\bin\Debug\Phonebook.exe
 D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\bin\Debug\Phonebook.pdb
-D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
 D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\obj\Debug\Phonebook.exe
 D:\Git\SoftUni-3.0\Exersices\Sets-and-Dictionaries\Phonebook\obj\Debug\Phonebook.pdb

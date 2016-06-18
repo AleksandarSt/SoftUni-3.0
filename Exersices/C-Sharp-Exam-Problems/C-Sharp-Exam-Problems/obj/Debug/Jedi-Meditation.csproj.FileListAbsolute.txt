@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\bin\Debug\C-Sharp-Exam-Problems.exe.config
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\bin\Debug\C-Sharp-Exam-Problems.exe
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\bin\Debug\C-Sharp-Exam-Problems.pdb
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\obj\Debug\Jedi-Meditation.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\obj\Debug\C-Sharp-Exam-Problems.exe
+D:\Git\SoftUni-3.0\Exersices\C-Sharp-Exam-Problems\C-Sharp-Exam-Problems\obj\Debug\C-Sharp-Exam-Problems.pdb
