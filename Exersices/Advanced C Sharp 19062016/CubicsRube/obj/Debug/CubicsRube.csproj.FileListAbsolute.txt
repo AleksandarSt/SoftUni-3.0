@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\bin\Debug\CubicsRube.exe.config
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\bin\Debug\CubicsRube.exe
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\bin\Debug\CubicsRube.pdb
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\obj\Debug\CubicsRube.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\obj\Debug\CubicsRube.exe
+D:\Git\SoftUni-3.0\Exersices\Advanced C Sharp 19062016\CubicsRube\obj\Debug\CubicsRube.pdb
