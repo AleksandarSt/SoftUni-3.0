@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Reflection;
 
 namespace Person
@@ -7,28 +9,20 @@ namespace Person
 	{
 		static void Main()
 		{
-			Type personType = typeof(Person);
-			ConstructorInfo emptyCtor = personType.GetConstructor(new Type[] { });
-			ConstructorInfo ageCtor = personType.GetConstructor(new[] { typeof(int) });
-			ConstructorInfo nameAgeCtor = personType.GetConstructor(new[] { typeof(string), typeof(int) });
-			bool swapped = false;
-			if (nameAgeCtor == null)
-			{
-				nameAgeCtor = personType.GetConstructor(new[] { typeof(int), typeof(string) });
-				swapped = true;
-			}
+		    int numberOfLines = int.Parse(Console.ReadLine());
+            List<Person> persons =new List<Person>();
 
-			string name = Console.ReadLine();
-			int age = int.Parse(Console.ReadLine());
+		    for (int i = 0; i < numberOfLines; i++)
+		    {
+		        string[] line = Console.ReadLine().Split();
 
-			Person basePerson = (Person)emptyCtor.Invoke(new object[] { });
-			Person personWithAge = (Person)ageCtor.Invoke(new object[] { age });
-			Person personWithAgeAndName = swapped ? (Person)nameAgeCtor.Invoke(new object[] { age, name }) : (Person)nameAgeCtor.Invoke(new object[] { name, age });
+		        persons.Add(new Person(int.Parse(line[1]), line[0]));
+		    }
 
-			Console.WriteLine("{0} {1}", basePerson.name, basePerson.age);
-			Console.WriteLine("{0} {1}", personWithAge.name, personWithAge.age);
-			Console.WriteLine("{0} {1}", personWithAgeAndName.name, personWithAgeAndName.age);
-
+		    foreach (var person in persons.Where(x=>x.age>30).OrderBy(x=>x.name))
+		    {
+		        Console.WriteLine($"{person.name} - {person.age}");
+		    }
 		}
 
 	}
