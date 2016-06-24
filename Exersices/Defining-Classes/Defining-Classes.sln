@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company-Roster", "Company-Roster\Company-Roster.csproj", "{39C4D8E7-3842-4F85-A8DD-2031CAF9397D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed-racing", "Speed-racing\Speed-racing.csproj", "{240191F7-7DA1-4FD6-9F03-9340621E4589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{39C4D8E7-3842-4F85-A8DD-2031CAF9397D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39C4D8E7-3842-4F85-A8DD-2031CAF9397D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39C4D8E7-3842-4F85-A8DD-2031CAF9397D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240191F7-7DA1-4FD6-9F03-9340621E4589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240191F7-7DA1-4FD6-9F03-9340621E4589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240191F7-7DA1-4FD6-9F03-9340621E4589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240191F7-7DA1-4FD6-9F03-9340621E4589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

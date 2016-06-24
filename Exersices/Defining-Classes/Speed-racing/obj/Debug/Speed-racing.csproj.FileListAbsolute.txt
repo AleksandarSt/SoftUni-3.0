@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\bin\Debug\Speed-racing.exe.config
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\bin\Debug\Speed-racing.exe
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\bin\Debug\Speed-racing.pdb
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\obj\Debug\Speed-racing.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\obj\Debug\Speed-racing.exe
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Speed-racing\obj\Debug\Speed-racing.pdb
