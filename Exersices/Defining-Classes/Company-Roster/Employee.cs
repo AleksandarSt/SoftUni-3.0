@@ -15,6 +15,8 @@
             this.salary = salary;
             this.position = position;
             this.deparment = department;
+            this.email = "n/a";
+            this.age = -1;
         }
 
         public Employee(string email, string name, decimal salary, string position, string department)

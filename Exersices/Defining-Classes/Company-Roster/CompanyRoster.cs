@@ -30,11 +30,9 @@ namespace Company_Roster
                     if (emailOrAge.Contains("@"))
                     {
                         employee.email = emailOrAge;
-                        employee.age = -1;
                     }
                     else
                     {
-                        employee.email = "n/a";
                         employee.age = int.Parse(emailOrAge);
                     }
 
@@ -61,6 +59,7 @@ namespace Company_Roster
                             Employees=e.OrderByDescending(emp=>emp.salary)
                         }
                 )
+                .OrderByDescending(e => e.Salary)
                 .FirstOrDefault();
 
             Console.WriteLine($"Highest Average Salary: {result.Departmen}");
