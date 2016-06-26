@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\bin\Debug\Raw-data.exe.config
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\bin\Debug\Raw-data.exe
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\bin\Debug\Raw-data.pdb
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\obj\Debug\Raw-data.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\obj\Debug\Raw-data.exe
+D:\Git\SoftUni-3.0\Exersices\Defining-Classes\Raw-data\obj\Debug\Raw-data.pdb
