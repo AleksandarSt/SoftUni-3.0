@@ -39,14 +39,54 @@ namespace Raw_data
                 cars.Add(car);
             }
 
-            //if (Console.ReadLine()=="fragile")
-            //{
-            //    var result=cars.Where(car=>car.cargo.type=="fragile"&&car.tires.fi)
-            //}
-            //else
-            //{
+
+            if (Console.ReadLine() == "fragile")
+            {
+                var result = cars
+                    .Where
+                    (
+                        car => car.cargo.type == "fragile"
+                               && car.tires.Any(t => t.pressure < 1)
+                    )
+                    .Select
+                    (
+                        car =>
+                            new
+                            {
+                                Model = car.model
+                            }
+                    )
+                    .ToList();
+
+                foreach (var item in result)
+                {
+                    Console.WriteLine(item.Model);
+                }
                 
-            //}
+            }
+            else
+            {
+                var result = cars
+                    .Where
+                    (
+                        car => car.cargo.type == "flamable"
+                               && car.engine.power > 250
+                    )
+                    .Select
+                    (
+                        car =>
+                            new
+                            {
+                                Model = car.model
+                            }
+                    )
+                    .ToList();
+
+                foreach (var item in result)
+                {
+                    Console.WriteLine(item.Model);
+                }
+            }
         }
     }
 }
