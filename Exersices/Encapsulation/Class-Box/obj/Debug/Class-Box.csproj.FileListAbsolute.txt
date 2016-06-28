@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\bin\Debug\Class-Box.exe.config
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\bin\Debug\Class-Box.exe
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\bin\Debug\Class-Box.pdb
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\obj\Debug\Class-Box.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\obj\Debug\Class-Box.exe
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\Class-Box\obj\Debug\Class-Box.pdb
