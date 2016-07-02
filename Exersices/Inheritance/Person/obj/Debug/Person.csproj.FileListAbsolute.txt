@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\bin\Debug\Person.exe.config
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\bin\Debug\Person.exe
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\bin\Debug\Person.pdb
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\obj\Debug\Person.exe
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Person\obj\Debug\Person.pdb
