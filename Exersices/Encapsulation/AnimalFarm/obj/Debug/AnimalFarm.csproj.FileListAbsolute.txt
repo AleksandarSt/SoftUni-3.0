@@ -1,0 +1,12 @@
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.exe
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.pdb
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.pdb
+D:\Git\SoftUni-3.0\Exersices\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
