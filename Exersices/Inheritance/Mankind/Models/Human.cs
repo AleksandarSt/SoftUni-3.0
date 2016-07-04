@@ -47,7 +47,7 @@ namespace Mankind.Models
 
                 if (value.Length < 3)
                 {
-                    throw new ArgumentException(" Expected length at least 3 symbols! Argument: lastName");
+                    throw new ArgumentException("Expected length at least 3 symbols! Argument: lastName");
                 }
 
                 this.lastName = value;

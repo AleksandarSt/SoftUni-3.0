@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\bin\Debug\Online-Radio-Database.exe.config
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\bin\Debug\Online-Radio-Database.exe
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\bin\Debug\Online-Radio-Database.pdb
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\obj\Debug\Online-Radio-Database.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\obj\Debug\Online-Radio-Database.exe
+D:\Git\SoftUni-3.0\Exersices\Inheritance\Online-Radio-Database\obj\Debug\Online-Radio-Database.pdb
