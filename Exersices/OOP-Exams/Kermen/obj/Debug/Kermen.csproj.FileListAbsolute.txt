@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\bin\Debug\Kermen.exe.config
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\bin\Debug\Kermen.exe
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\bin\Debug\Kermen.pdb
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\obj\Debug\Kermen.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\obj\Debug\Kermen.exe
+D:\Git\SoftUni-3.0\Exersices\OOP-Exams\Kermen\obj\Debug\Kermen.pdb
