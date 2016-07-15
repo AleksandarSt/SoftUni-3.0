@@ -1,8 +1,6 @@
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\bin\Debug\BorderControl.exe.config
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\bin\Debug\BorderControl.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\bin\Debug\BorderControl.pdb
-D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\bin\Debug\BorderControl.exe.CodeAnalysisLog.xml
-D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\bin\Debug\BorderControl.exe.lastcodeanalysissucceeded
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\obj\Debug\BorderControl.csprojResolveAssemblyReference.cache
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\obj\Debug\BorderControl.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\BorderControl\obj\Debug\BorderControl.pdb
