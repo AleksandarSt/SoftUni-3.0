@@ -43,13 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Commando.cs" />
-    <Compile Include="Engineer.cs" />
-    <Compile Include="LeutenantGeneral.cs" />
-    <Compile Include="Private.cs" />
-    <Compile Include="Soldier.cs" />
-    <Compile Include="SpecialisedSoldier.cs" />
-    <Compile Include="Spy.cs" />
+    <Compile Include="Models\Commando.cs" />
+    <Compile Include="Models\CorpTypes.cs" />
+    <Compile Include="Models\Engineer.cs" />
+    <Compile Include="Models\LeutenantGeneral.cs" />
+    <Compile Include="Models\Mission.cs" />
+    <Compile Include="Models\MissionStates.cs" />
+    <Compile Include="Models\Private.cs" />
+    <Compile Include="Models\Repair.cs" />
+    <Compile Include="Models\Soldier.cs" />
+    <Compile Include="Models\SpecialisedSoldier.cs" />
+    <Compile Include="Models\Spy.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,7 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

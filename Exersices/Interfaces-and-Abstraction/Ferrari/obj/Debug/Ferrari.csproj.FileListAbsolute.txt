@@ -1,6 +1,8 @@
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\bin\Debug\Ferrari.exe.config
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\bin\Debug\Ferrari.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\bin\Debug\Ferrari.pdb
+D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\bin\Debug\Ferrari.exe.CodeAnalysisLog.xml
+D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\bin\Debug\Ferrari.exe.lastcodeanalysissucceeded
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\obj\Debug\Ferrari.csprojResolveAssemblyReference.cache
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\obj\Debug\Ferrari.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\Ferrari\obj\Debug\Ferrari.pdb

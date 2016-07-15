@@ -1,6 +1,8 @@
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\bin\Debug\Interface IPerson.exe.config
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\bin\Debug\Interface IPerson.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\bin\Debug\Interface IPerson.pdb
+D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\bin\Debug\Interface IPerson.exe.CodeAnalysisLog.xml
+D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\bin\Debug\Interface IPerson.exe.lastcodeanalysissucceeded
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\obj\Debug\InterfaceIPerson.csprojResolveAssemblyReference.cache
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\obj\Debug\Interface IPerson.exe
 D:\Git\SoftUni-3.0\Exersices\Interfaces-and-Abstraction\InterfaceIPerson\obj\Debug\Interface IPerson.pdb
