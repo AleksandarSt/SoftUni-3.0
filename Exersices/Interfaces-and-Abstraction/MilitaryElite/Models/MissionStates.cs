@@ -5,8 +5,8 @@ namespace MilitaryElite.Models
 	public enum MissionStates
 	{
 		[Description("inProgress")]
-		InProgress,
+		inProgress,
 		[Description("Finished")]
-		Finished
+		finished
 	}
 }

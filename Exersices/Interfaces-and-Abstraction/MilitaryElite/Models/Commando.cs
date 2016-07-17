@@ -1,8 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using MilitaryElite.Interfaces;
 
 namespace MilitaryElite.Models
 {
-	public class Commando : SpecialisedSoldier
+	public class Commando : SpecialisedSoldier,ICommando
 	{
 		private List<Mission> missions;
 
@@ -16,7 +19,21 @@ namespace MilitaryElite.Models
 
 		public void CompleteMission(Mission mission)
 		{
-			mission.State=MissionStates.Finished;
+			mission.State=MissionStates.finished;
 		}
-	}
+
+        public override string ToString()
+        {
+            StringBuilder result = new StringBuilder();
+            result.Append(base.ToString());
+            result.Append(Environment.NewLine);
+            result.Append($"Corps: {this.CorpType}");
+            result.Append(Environment.NewLine);
+            result.Append($"Missions:");
+            result.Append(Environment.NewLine);
+            result.Append($"  {string.Join(Environment.NewLine, this.Missions)}");
+
+            return result.ToString();
+        }
+    }
 }

@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\ICommando.cs" />
+    <Compile Include="Interfaces\IEngineer.cs" />
+    <Compile Include="Interfaces\ILeutenantGeneral.cs" />
+    <Compile Include="Interfaces\IPrivate.cs" />
+    <Compile Include="Interfaces\ISoldier.cs" />
+    <Compile Include="Interfaces\ISpecialisedSoldier.cs" />
+    <Compile Include="Interfaces\ISpy.cs" />
     <Compile Include="Models\Commando.cs" />
     <Compile Include="Models\CorpTypes.cs" />
     <Compile Include="Models\Engineer.cs" />
@@ -59,11 +66,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

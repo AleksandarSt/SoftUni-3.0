@@ -1,4 +1,6 @@
-﻿namespace MilitaryElite.Models
+﻿using System.Text;
+
+namespace MilitaryElite.Models
 {
 	public class Mission
 	{
@@ -23,5 +25,13 @@
 			get { return this.state; }
 			set { this.state = value; }
 		}
+
+	    public override string ToString()
+	    {
+            StringBuilder result=new StringBuilder();
+	        result.Append($"Code Name: {this.CodeName} State: {this.State}");
+
+	        return result.ToString();
+	    }
 	}
 }

@@ -1,14 +1,16 @@
-﻿namespace MilitaryElite.Models
+﻿using System.Text;
+
+namespace MilitaryElite.Models
 {
 	public class Repair
 	{
 		private string partName;
-		private int hoursWorker;
+		private int repairHours;
 
-		public Repair(string partName, int hoursWorker)
+		public Repair(string partName, int repairHours)
 		{
 			this.PartName = partName;
-			this.HoursWorker = hoursWorker;
+			this.RepairHours = repairHours;
 		}
 
 		public string PartName
@@ -17,10 +19,18 @@
 			set { this.partName = value; }
 		}
 
-		public int HoursWorker
+		public int RepairHours
 		{
-			get { return this.hoursWorker; }
-			set { this.hoursWorker = value; }
+			get { return this.repairHours; }
+			set { this.repairHours = value; }
 		}
+
+	    public override string ToString()
+	    {
+            StringBuilder result=new StringBuilder();
+	        result.Append($"Part Name: {this.PartName} Hours Worked: {this.RepairHours}");
+
+	        return result.ToString();
+	    }
 	}
 }
