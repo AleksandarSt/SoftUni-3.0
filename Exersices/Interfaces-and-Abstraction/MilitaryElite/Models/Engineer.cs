@@ -25,7 +25,7 @@ namespace MilitaryElite.Models
             result.Append(Environment.NewLine);
             result.Append($"Repairs:");
             result.Append(Environment.NewLine);
-            result.Append(string.Join($"  {Environment.NewLine}  ", this.Repairs));
+	        result.Append(string.Join(Environment.NewLine, this.Repairs));
 
             return result.ToString();
         }

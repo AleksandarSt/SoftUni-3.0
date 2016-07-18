@@ -31,7 +31,7 @@ namespace MilitaryElite.Models
             result.Append(Environment.NewLine);
             result.Append($"Missions:");
             result.Append(Environment.NewLine);
-            result.Append($"  {string.Join(Environment.NewLine, this.Missions)}");
+            result.Append(string.Join(Environment.NewLine, this.Missions));
 
             return result.ToString();
         }

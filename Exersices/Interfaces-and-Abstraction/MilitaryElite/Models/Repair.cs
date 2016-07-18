@@ -28,7 +28,7 @@ namespace MilitaryElite.Models
 	    public override string ToString()
 	    {
             StringBuilder result=new StringBuilder();
-	        result.Append($"Part Name: {this.PartName} Hours Worked: {this.RepairHours}");
+	        result.Append($"  Part Name: {this.PartName} Hours Worked: {this.RepairHours}");
 
 	        return result.ToString();
 	    }

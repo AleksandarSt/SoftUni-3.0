@@ -20,7 +20,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            string result = $"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}";
+            string result = $"  Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:F2}";
 
             return result;
         }
