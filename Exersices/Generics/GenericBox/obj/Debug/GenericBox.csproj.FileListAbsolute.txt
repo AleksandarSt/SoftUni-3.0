@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\bin\Debug\GenericBox.exe.config
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\bin\Debug\GenericBox.exe
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\bin\Debug\GenericBox.pdb
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\obj\Debug\GenericBox.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\obj\Debug\GenericBox.exe
+D:\Git\SoftUni-3.0\Exersices\Generics\GenericBox\obj\Debug\GenericBox.pdb
