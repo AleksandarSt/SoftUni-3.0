@@ -9,19 +9,18 @@ namespace GenericBox
         static void Main()
         {
             int numberOfLines = int.Parse(Console.ReadLine());
-            var boxList=new List<Box<string>>();
-            //var boxList = new List<Box<int>>();
-            //var boxList=new List<IComparable>();
+            //var boxList=new List<Box<string>>();
+            var boxList = new List<Box<double>>();
 
             for (int i = 0; i < numberOfLines; i++)
             {
-                var stringBox = new Box<string>(Console.ReadLine());
-                boxList.Add(stringBox);
-                //var intBox = new Box<int>(int.Parse(Console.ReadLine()));
-                //boxList.Add(intBox);
+                //var stringBox = new Box<string>(Console.ReadLine());
+                //boxList.Add(stringBox);
+                var intBox = new Box<double>(double.Parse(Console.ReadLine()));
+                boxList.Add(intBox);
             }
 
-            var comparableBox = new Box<string>(Console.ReadLine());
+            var comparableBox = new Box<double>(double.Parse(Console.ReadLine()));
 
             Console.WriteLine(GenericCount(boxList, comparableBox));
 
