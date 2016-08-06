@@ -1,0 +1,6 @@
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe.config
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.pdb
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe
+D:\Git\SoftUni-3.0\Exersices\CSharp-OOP-Advanced-Exam-Preparation-July-2016-Marketplace-Skeleton\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.pdb
