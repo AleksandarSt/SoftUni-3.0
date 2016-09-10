@@ -4,5 +4,6 @@
     {
         int Capacity { get; set; }
         IShop Successor { get; }
+        void AddProduct(IProduct product);
     }
 }

@@ -1,0 +1,7 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.pdb
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
+D:\Git\SoftUni-3.0\Exersices\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.csprojResolveAssemblyReference.cache
