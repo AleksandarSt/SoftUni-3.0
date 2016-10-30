@@ -1,0 +1,10 @@
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\Entity-Framework-Introduction.exe.config
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\Entity-Framework-Introduction.exe
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\Entity-Framework-Introduction.pdb
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\EntityFramework.dll
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\EntityFramework.xml
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\obj\Debug\Entity-Framework-Introduction.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\obj\Debug\Entity-Framework-Introduction.exe
+D:\Git\SoftUni-3.0\Exersices\Entity-Framework-Introduction\Entity-Framework-Introduction\obj\Debug\Entity-Framework-Introduction.pdb
