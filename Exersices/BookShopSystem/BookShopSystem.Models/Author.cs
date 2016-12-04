@@ -8,7 +8,7 @@ namespace BookShopSystem.Models
     {
         private ICollection<Book> books;
 
-        public Author(ICollection<Book> books)
+        public Author()
         {
             this.books = new HashSet<Book>();
         }
