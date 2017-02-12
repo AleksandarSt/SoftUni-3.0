@@ -1,0 +1,14 @@
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.pdb
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.dll
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.dll
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.pdb
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.pdb
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+D:\Git\SoftUni-3.0\Exersices\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb

@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BookShopSystem.Models
 {
     public class Book
     {
+        public Book()
+        {
+            this.Categories=new HashSet<Category>();
+        }
+
         [Key]
         public int Id { get; set; }
 
@@ -29,12 +31,13 @@ namespace BookShopSystem.Models
         public int Copies { get; set; }
 
         public DateTime ReleaseDate { get; set; }
-
-        [ForeignKey("AuthorId")]
+        
         public virtual Author Author { get; set; }
 
-        [ForeignKey("CategoryId")]
-        public Category Category { get; set; }
+        public virtual ICollection<Category> Categories { get; set; }
+
+        [Required]
+        public AgeRestrictions AgeRestriction { get; set; }
     }
 
     public enum EditionTypes
@@ -42,5 +45,12 @@ namespace BookShopSystem.Models
         Normal,
         Promo,
         Gold
+    }
+
+    public enum AgeRestrictions
+    {
+        Minor,
+        Teen,
+        Adult
     }
 }
